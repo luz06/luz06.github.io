@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lu&#39;s Corner</title>
+    <link>https://luz06.github.io/</link>
+    <description>Recent content on Lu&#39;s Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024 LuYZhang.</copyright>
+    <lastBuildDate>Thu, 22 Feb 2024 23:48:58 -0600</lastBuildDate>
+    <atom:link href="https://luz06.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Thought Space</title>
+      <link>https://luz06.github.io/welcome-to-my-thought-space/</link>
+      <pubDate>Thu, 22 Feb 2024 23:48:58 -0600</pubDate>
+      <guid>https://luz06.github.io/welcome-to-my-thought-space/</guid>
+      <description>Hello and welcome to my very first blog post! I’m excited to embark on this new journey of expression and connection, and even more thrilled to have you join me.&#xA;This blog, which I’ve fondly decided to call &amp;ldquo;My Thought Space,&amp;rdquo; is exactly what it sounds like—a digital canvas for my myriad thoughts, fleeting ideas, and everything in-between. Here, I plan to share snippets of my day, musings that keep me up at night, reflections on life&amp;rsquo;s myriad experiences, and perhaps the occasional deep dive into topics that pique my interest.</description>
+    </item>
+    <item>
+      <title>Bear</title>
+      <link>https://luz06.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://luz06.github.io/about/</guid>
+      <description>Bear Website: https://bearblog.dev&#xA;There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.&#xA;Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.&#xA;Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.</description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://luz06.github.io/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://luz06.github.io/hugo/</guid>
+      <description>Hugo Website: https://gohugo.io&#xA;Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:</description>
+    </item>
+  </channel>
+</rss>

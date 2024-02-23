@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://luz06.github.io/sitemap.xml
